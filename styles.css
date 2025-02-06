@@ -24,7 +24,7 @@ body {
 
 /* Header */
 .header {
-  background-color: var(--blanco);
+  background-color: var(--morado);
   padding: 1px 0;
   position: sticky;
   top: 0;
